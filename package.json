@@ -15,8 +15,7 @@
     "buffer": "^6.0.3",
     "parcel": "^2.5.0",
     "process": "^0.11.10",
-    "sass": "^1.51.0",
-    "util": "^0.12.4"
+    "sass": "^1.51.0"
   },
   "dependencies": {
     "core-js": "^3.22.3",
